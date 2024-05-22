@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^9.3.0"
+  },
+  "publishConfig": {
+    "harshitasharma1973:registry": "https://npm.pkg.github.com"
   }
 }
